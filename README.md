@@ -1,2 +1,2 @@
 # handwritten-digit-recognisation
-HandwrittenDigitRecognization using CNN 
+HandwrittenDigitRecognization using ANN
